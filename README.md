@@ -9,7 +9,7 @@
 
 
 
-💭 **Project**
+🔰**Project**
 - [그룹웨어] [HelloWorks](https://github.com/pastelto/HelloWorks.git)
 
 
