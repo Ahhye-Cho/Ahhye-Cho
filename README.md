@@ -13,7 +13,7 @@
 - [그룹웨어] [HelloWorks](https://github.com/pastelto/HelloWorks.git)
 
 
-🏷 **Notion** : [Ahhye's Notion](https://www.notion.so/bf2532736e3f49f5a41073a2b3faeeb0)
+🏷 **Notion** : [Ahhye's Notion](https://aquatic-wilderness-252.notion.site/bf2532736e3f49f5a41073a2b3faeeb0)
 
 ✉ **email** : ahye7948@gmail.com
 <!--
